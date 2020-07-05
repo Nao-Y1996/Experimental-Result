@@ -1,0 +1,194 @@
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー１
+
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.205
+theta = 182.729
+(fx, fy, ek) = (-0.205, -0.01, 0.0)
+(FX,FY) = (-0.205,-0.01)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.519,-0.001,0.0
+ ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー２
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.001,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.044
+theta = 206.681
+(fx, fy, ek) = (-0.04, -0.02, 0.0)
+(FX,FY) = (-0.04,-0.02)
+(old_FX,old_FY) = (-0.205,-0.01)
+next--> x,y,ek=-0.523,-0.002,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー３
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,0.0
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.071
+theta = 268.957
+(fx, fy, ek) = (-0.038, -2.071, 0.0)
+(FX,FY) = (-0.038,-2.071)
+(old_FX,old_FY) = (-0.04,-0.02)
+next--> x,y,ek=-0.523,-0.002,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー４
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.523,-0.002,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.105
+theta = 319.668
+(fx, fy, ek) = (0.08, -0.068, -0.78)
+(FX,FY) = (0.009,-0.105)
+(old_FX,old_FY) = (-0.038,-2.071)
+next--> x,y,ek=-0.522,-0.014,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー５
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.581
+theta = 269.892
+(fx, fy, ek) = (-0.005, -2.581, -0.78)
+(FX,FY) = (-1.819,-1.832)
+(old_FX,old_FY) = (0.009,-0.105)
+next--> x,y,ek=-0.522,-0.014,-89.381
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー６
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-1.56
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 4.0
+theta = 47.394
+(fx, fy, ek) = (2.708, 2.944, -1.56)
+(FX,FY) = (2.973,-2.676)
+(old_FX,old_FY) = (-1.819,-1.832)
+next--> x,y,ek=-0.522,-0.014,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー７
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.522,-0.014,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.099
+theta = 326.536
+(fx, fy, ek) = (0.082, -0.054, -0.78)
+(FX,FY) = (0.02,-0.096)
+(old_FX,old_FY) = (2.973,-2.676)
+next--> x,y,ek=-0.52,-0.025,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー８
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.52,-0.025,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.345
+theta = 317.535
+(fx, fy, ek) = (0.255, -0.233, -0.78)
+(FX,FY) = (0.017,-0.345)
+(old_FX,old_FY) = (0.02,-0.096)
+next--> x,y,ek=-0.519,-0.072,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー９
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 2.998
+theta = 312.403
+(fx, fy, ek) = (2.021, -2.213, -0.78)
+(FX,FY) = (-0.12,-2.995)
+(old_FX,old_FY) = (0.017,-0.345)
+next--> x,y,ek=-0.519,-0.072,-89.381
+
+==========================================================================
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー１０のはずだった
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-1.56
+Enter the  command --->> 
+
+
+
+[ERROR] [1579838016.996054]: bad callback: <function gripper_operating at 0x7f0959d25b18>
+============================================================================
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー９
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.519,-0.072,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.854
+theta = 356.75
+(fx, fy, ek) = (0.853, -0.048, -0.78)
+(FX,FY) = (0.572,-0.634)
+(old_FX,old_FY) = (-0.12,-2.995)
+next--> x,y,ek=-0.434,-0.222,-44.691
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー１０
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---standing
+now--> x,y,ek=-0.434,-0.222,-0.78
+Enter the  command --->>    
+1
+力書き込み時---standing
+Fuzzy時---standing
+---------Fuzzy----------
+f = 0.871
+theta = 62.317
+(fx, fy, ek) = (0.405, 0.771, -0.78)
+(FX,FY) = (0.83,0.264)
+(old_FX,old_FY) = (0.572,-0.634)
+next--> x,y,ek=-0.284,-0.209,-44.691
+

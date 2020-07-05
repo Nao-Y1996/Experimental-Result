@@ -1,0 +1,200 @@
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー１
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.5,0.0,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.446
+theta = 140.056
+(fx, fy, ek) = (-1.875, 1.571, 0.0)
+(FX,FY) = (-1.875,1.571)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.6,0.1,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー２
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.6,0.1,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 1.85
+theta = 105.309
+(fx, fy, ek) = (-0.488, 1.785, 0.0)
+(FX,FY) = (-0.488,1.785)
+(old_FX,old_FY) = (-1.875,1.571)
+next--> x,y,ek=-0.74,0.25,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー３
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.74,0.25,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 3.595
+theta = 0.583
+(fx, fy, ek) = (3.595, 0.037, 0.0)
+(FX,FY) = (3.595,0.037)
+(old_FX,old_FY) = (-0.488,1.785)
+next--> x,y,ek=-0.69,0.254,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー４
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+
+
+
+[ERROR] [1579840543.239933]: Error processing request: Playing trajectory failed: /hsrb/arm_trajectory_controller(1), /hsrb/omni_base_controller(4)
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー４
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+Enter the  command --->> g   
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.0
+theta = 0.0
+(fx, fy, ek) = (-0.0, -0.0, 0.0)
+(FX,FY) = (0.0,0.0)
+(old_FX,old_FY) = (3.595,0.037)
+next--> x,y,ek=-0.69,0.254,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーー
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.021
+theta = 333.76
+(fx, fy, ek) = (0.018, -0.009, 0.0)
+(FX,FY) = (0.018,-0.009)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.689,0.253,0.0
+
+Enter the  command --->> g
+Enter the  command --->> 
+ーーーーーーーーーーーーーーーーーーーーーーーーー
+
+
+
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+^C[fuzzy-4] killing on exit
+＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝＝
+
+
+
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー５
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.69,0.254,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 3.436
+theta = 34.582
+(fx, fy, ek) = (2.829, 1.95, 0.0)
+(FX,FY) = (2.829,1.95)
+(old_FX,old_FY) = (0.0,0.0)
+next--> x,y,ek=-0.59,0.354,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー６
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.354,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.632
+theta = 90.0
+(fx, fy, ek) = (-0.0, 0.632, 0.0)
+(FX,FY) = (0.0,0.632)
+(old_FX,old_FY) = (2.829,1.95)
+next--> x,y,ek=-0.59,0.504,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー７
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.554
+theta = 346.203
+(fx, fy, ek) = (2.48, -0.609, 0.0)
+(FX,FY) = (2.48,-0.609)
+(old_FX,old_FY) = (0.0,0.632)
+/home/kubotalab/catkin_ws3/src/hsr_handing/script/fuzzy.py:126: RuntimeWarning: invalid value encountered in double_scalars
+  return np.dot(w_vec, then_vec)/np.sum(w_vec)
+nanが検出されたので更新しません
+next--> x,y,ek=-0.59,0.504,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー８
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.59,0.504,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 0.637
+theta = 349.741
+(fx, fy, ek) = (0.627, -0.113, 0.0)
+(FX,FY) = (0.627,-0.113)
+(old_FX,old_FY) = (2.48,-0.609)
+next--> x,y,ek=-0.44,0.49,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー９
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.44,0.49,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 2.532
+theta = 350.842
+(fx, fy, ek) = (2.5, -0.403, 0.0)
+(FX,FY) = (2.5,-0.403)
+(old_FX,old_FY) = (0.627,-0.113)
+next--> x,y,ek=-0.29,0.424,0.0
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー１０
+Enter the  command --->> g
+Enter the  command --->> h
+手渡し時---cross legged
+now--> x,y,ek=-0.29,0.424,0.0
+Enter the  command --->>    
+2
+力書き込み時---cross
+Fuzzy時---cross
+---------Fuzzy----------
+f = 1.349
+theta = 257.023
+(fx, fy, ek) = (-0.303, -1.314, 0.0)
+(FX,FY) = (-0.303,-1.314)
+(old_FX,old_FY) = (2.5,-0.403)
+next--> x,y,ek=-0.29,0.274,0.0
